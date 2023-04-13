@@ -55,5 +55,7 @@ import java.util.Scanner;
                 System.out.println("Valor calculado em R$: " + valorTotal);
             System.out.println("");
             System.out.println("Locacao realizada com sucesso!");
+            
+             System.out.println("Obrigado pela confianca!");
             }
         }
